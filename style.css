@@ -1,0 +1,120 @@
+    body {
+        font-family: "Montserrat", sans-serif;
+        text-align: center;
+    }
+    
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+        font-weight: 900;
+    }
+    
+    p {
+        color: #8f8f8f;
+    }
+    /* Containers */
+    
+    .container-fluid {
+        padding: 7% 15%;
+    }
+    /* Selectors */
+    
+    .colored-section {
+        background-color: #e8ecd6;
+    }
+    
+    .white-section {
+        background-color: #ffffff;
+    }
+    /* Headings Section */
+    
+    .big-heading {
+        font-size: 2 rem;
+        line-height: 1.5;
+    }
+    
+    .section-heading {
+        font-size: 3rem;
+        line-height: 1.5;
+    }
+    /* Navigation Bar */
+    
+    .navbar {
+        padding: 0 0 10% 0;
+    }
+    
+    .navbar-brand {
+        font-family: "Ubuntu", sans-serif;
+        font-size: 1.5rem;
+        font-weight: bold;
+    }
+    
+    .nav-item {
+        padding: 0 18px;
+    }
+    /*Title*/
+    
+    #title .container-fluid {
+        padding: 3% 10% 15%;
+        text-align: left;
+    }
+    
+    .pad-img {
+        width: 75%;
+        position: absolute;
+        right: 10%;
+        top: 35%;
+    }
+    /* Features */
+    
+    #features {
+        position: relative;
+        height: 90vh;
+    }
+    
+    .feature-title {
+        font-size: 1.5rem;
+        text-align: center;
+        margin-top: 3rem;
+    }
+    
+    .features-img {
+        color: #a1dd70;
+        margin-bottom: 1rem;
+    }
+    
+    .features-img:hover {
+        color: #e8ecd6;
+    }
+    /* Testimonials */
+    
+    #testimonials {
+        background-color: #a1dd70;
+        height: 90vh;
+    }
+    
+    .testimonial-text {
+        padding-top: 9%;
+        font-size: 1.5rem;
+        font-weight: 500;
+    }
+    
+    .testimonial-img {
+        width: 10%;
+        border-radius: 100%;
+        margin: 20px;
+    }
+    
+    #editors {
+        text-align: left;
+        padding: 10%;
+    }
+    
+    #cta {
+        height: 70vh;
+        text-align: center;
+        padding: 8%;
+    }
